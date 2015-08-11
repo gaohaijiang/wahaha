@@ -1,5 +1,9 @@
 git  test1
 git  test2
 git  test3   git test4  git  test5
+<<<<<<< HEAD
 git  test6  hhh2 git test7
 git  xinxin
+=======
+git  test6   hhh2
+>>>>>>> dev1
